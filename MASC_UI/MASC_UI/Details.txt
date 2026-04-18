@@ -1,0 +1,13 @@
+1-    Chat	330
+2-    Home	867
+3-    List	960
+4-    Login	889
+5-    Map	500
+6-    Menu	557
+7-    Profile	526
+8-    Search	726
+9-    Setting	629
+10-    Welcome	1084
+
+-------------------------------------
+Total UI = 7068
